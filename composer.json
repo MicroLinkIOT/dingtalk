@@ -2,7 +2,7 @@
     "name": "microlink/dingtalk",
     "description": "EasyDingTalk",
     "type": "project",
-    "license": "MicroLink IOT Ltd.",
+    "license": "proprietary",
     "authors": [
         {
             "name": "bell",
