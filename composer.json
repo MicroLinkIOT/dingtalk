@@ -1,0 +1,13 @@
+{
+    "name": "microlink/dingtalk",
+    "description": "EasyDingTalk",
+    "type": "project",
+    "license": "MicroLink IOT Ltd.",
+    "authors": [
+        {
+            "name": "bell",
+            "email": "bell@microlinkiot.com"
+        }
+    ],
+    "require": {}
+}
